@@ -1,0 +1,12 @@
+- Project (Multi Module Biuld)
+  ear
+  war
+  jar 
+
+  Dist ZIP / tar.gz
+   Struktur:
+    Name-Version.zip 
+       Name-Version
+          +---- Artefakt.ear
+          +---- Docs
+                +---- 2-3 Dateien
