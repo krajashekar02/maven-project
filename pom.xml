@@ -82,8 +82,8 @@
   </properties>
 
   <scm>
-    <developerConnection>scm:git:git@github.com:khmarbaise/example.git</developerConnection>
-    <connection>scm:git:git://github.com/khmarbaise/example.git</connection>
+    <developerConnection>scm:git:git@github.com:khmarbaise/maven-example.git</developerConnection>
+    <connection>scm:git:git://github.com/khmarbaise/maven-example.git</connection>
     <url>http://khmarbaise.github.com/example/</url>
     <tag>HEAD</tag>
   </scm>
