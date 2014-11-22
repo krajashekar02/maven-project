@@ -4,7 +4,7 @@
 
   <groupId>com.soebes.training.first</groupId>
   <artifactId>project-parent</artifactId>
-  <version>0.1.0-SNAPSHOT</version>
+  <version>0.1.0</version>
   <packaging>pom</packaging>
 
   <!-- This marked as deprecated for Maven 3.X. This is checked by maven-enforcer-plugin -->
@@ -85,7 +85,7 @@
     <developerConnection>scm:git:git@github.com:khmarbaise/example.git</developerConnection>
     <connection>scm:git:git://github.com/khmarbaise/example.git</connection>
     <url>http://khmarbaise.github.com/example/</url>
-    <tag>HEAD</tag>
+    <tag>project-parent-0.1.0</tag>
   </scm>
 
   <distributionManagement>
